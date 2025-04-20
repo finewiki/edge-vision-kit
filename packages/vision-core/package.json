@@ -1,0 +1,13 @@
+{
+  "name": "@edge-vision-kit/vision-core",
+  "version": "0.1.0",
+  "private": true,
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.10.0"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0"
+  }
+}

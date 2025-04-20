@@ -1,0 +1,10 @@
+{
+  "name": "object-detection",
+  "private": true,
+  "dependencies": {
+    "@edge-vision-kit/vision-core": "workspace:*",
+    "@edge-vision-kit/webcam-utils": "workspace:*",
+    "react": "workspace:*",
+    "react-dom": "workspace:*"
+  }
+}
